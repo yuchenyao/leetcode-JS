@@ -1,1 +1,1 @@
-"# leetcode-JS" 
+# JavaScript for Leetcode
