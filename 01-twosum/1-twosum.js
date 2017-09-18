@@ -17,7 +17,7 @@ return [0, 1].
 var twoSum = function(nums, target) {
 	for (var i = 0; i < nums.length; i++) {
 		var	index = nums.indexOf(target - nums[i]);
-		if(index != -1 $$ index != i) {
+		if(index != -1 && index != i) {
 			return [i,index];
 		}
 	}

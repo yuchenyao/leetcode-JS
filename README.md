@@ -1,3 +1,7 @@
 ## JavaScript for Leetcode
 ### Easy
-1. TwoSum
+Number | Name  
+-------|----- 
+1      | Two Sum  
+7      | Reverse Integer
+  
